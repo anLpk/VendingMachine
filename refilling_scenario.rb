@@ -1,3 +1,5 @@
+#Refilling Scenario
+
 require_relative "vending_machine"
 
 def display(vending_machine)
